@@ -1,2 +1,2 @@
 # triquigame
-Juego de la vieja
+Juego de triqui en c#
